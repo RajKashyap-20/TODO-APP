@@ -1,6 +1,6 @@
 const app = require("./src/app")
 
-const port= 8000
+const port= 5000
 
 
 const connectDB = require("./src/config/db")
